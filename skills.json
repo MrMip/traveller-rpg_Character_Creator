@@ -1,158 +1,158 @@
 {
-     "Admin" : {
-	  "id" : 0
+     "1" : {
+	  "name" : "Admin",
 	  "specialities" : null
-     }
-     "Advocate" : {
-	  "id" : 1
+     },
+     "2" : {
+	  "name" : "Advocate",
 	  "specialities" : null
-     }
-     "Animals" : {
-	  "id" : 2
+     },
+     "3" : {
+	  "name" : "Animals",
 	  "specialities" : ["Handling", "Veterinary", "Training"]
-     }
-     "Art" : {
-	  "id" : 3
+     },
+     "4" : {
+	  "name" : "Art",
 	  "specialities" : ["Preformer", "Holography", "Instrument", "Visual Media", "Write"]
-     }
-     "Astrogation" : {
-	  "id" : 4
+     },
+     "5" : {
+	  "name" : "Astrogation",
 	  "specialities" : null
-     }
-     "Athletics" : {
-	  "id" : 5
+     },
+     "6" : {
+	  "name" : "Athletics",
 	  "specialities" : ["Dexterity", "Endurance", "Strength"]
-     }
-     "Broker" : {
-	  "id" : 6
+     },
+     "7" : {
+	  "name" : "Broker",
 	  "specialities" : null
-     }
-     "Carouse" : {
-	  "id" : 7
+     },
+     "8" : {
+	  "name" : "Carouse",
 	  "specialities" : null
-     }
-     "Deception" : {
-	  "id" : 8
+     },
+     "9" : {
+	  "name" : "Deception",
 	  "specialities" : null
-     }
-     "Diplomat" : {
-	  "id" : 9
+     },
+    "10" : {
+	  "name" : "Diplomat",
 	  "specialities" : null
-     }
-     "Drive" : {
-	  "id" : 10
+     },
+    "11" : {
+	  "name" : "Drive",
 	  "specialities" : ["Hovercraft", "Mole", "Track", "Walker", "Wheel"]
-     }
-     "Electronics" : {
-	  "id" : 11
+     },
+    "12" : {
+	  "name" : "Electronics",
 	  "specialities" : ["Comms", "Computers", "Remote Ops", "Sensors"]
-     }
-     "Engineer" : {
-	  "id" : 12
+     },
+    "13" : {
+	  "name" : "Engineer",
 	  "specialities" : ["M-drive", "J-drive", "Life Support", "Power"]
-     }
-     "Explosives" : {
-	  "id" : 13
+     },
+    "14" : {
+	  "name" : "Engineer",
 	  "specialities" : null
-     }
-     "Flyer" : {
-	  "id" : 14
+     },
+    "15" : {
+	  "name" : "Flyer",
 	  "specialities" : ["Airship", "Grav", "Ornithopter", "Rotor", "Wing"]
-     }
-     "Gambler" : {
-	  "id" : 15
+     },
+    "16" : {
+	  "name" : "Gambler",
 	  "specialities" : null
-     }
-     "Gunner" : {
-	  "id" : 16
+     },
+    "17" : {
+	  "name" : "Gunner",
 	  "specialities" : ["Turret", "Ortillery", "Screen", "Capital"]
-     }
-     "Gun Combat" : {
-	  "id" : 17
+     },
+    "18" : {
+	  "name" : "Gun Combat",
 	  "specialities" : ["Archaic", "Enery", "Slug"]
-     }
-     "Heavy Weapons" : {
-	  "id" : 18
+     },
+    "19" : {
+	  "name" : "Heavy Weapons",
 	  "specialities" : ["Artillery", "Man Portable", "Vehicle"]
-     }
-     "Investigate" : {
-	  "id" : 19
+     },
+    "20" : {
+	  "name" : "Investigate",
 	  "specialities" : null
-     }
-     "Jack-of-All-Trades" : {
-	  "id" : 20
+     },
+    "21" : {
+	  "name" : "Jack-of-All-Trades",
 	  "specialities" : null
-     }
-     "Language" : {
-	  "id" : 21
+     },
+    "22" : {
+	  "name" : "Language",
 	  "specialities" : ["Anglic", "Vilani", "Zdetl", "Oynprith"]
-     }
-     "Leadership" : {
-	  "id" : 22
+     },
+    "23" : {
+	  "name" : "Leadership",
 	  "specialities" : null
-     }
-     "Mechanic" : {
-	  "id" : 23
+     },
+    "24" : {
+	  "name" : "Mechanic",
 	  "specialities" : null
-     }
-     "Medic" : {
-	  "id" : 24
+     },
+    "25" : {
+	  "name" : "Medic",
 	  "specialities" : null
-     }
-     "Melee" : {
-	  "id" : 25
+     },
+    "26" : {
+	  "name" : "Melee",
 	  "specialities" : ["Unarmed", "Blade", "Bludgeon", "Natural"]
-     }
-     "Navigation" : {
-	  "id" : 26
+     },
+    "27" : {
+	  "name" : "Navigation",
 	  "specialities" : null
-     }
-     "Persuade" : {
-	  "id" : 27
+     },
+    "28" : {
+	  "name" : "Persuade",
 	  "specialities" : null
-     }
-     "Pilot" : {
-	  "id" : 28
+     },
+    "29" : {
+	  "name" : "Pilot",
 	  "specialities" : ["Small Craft", "Spacecraft", "Capital Ships"]
-     }
-     "Profession" : {
-	  "id" : 29
+     },
+    "30" : {
+	  "name" : "Profession",
 	  "specialities" : ["Belter", "Biologicals", "Civil Engineering", "Hydoponics", "Polymers"]
-     }
-     "Recon" : {
-	  "id" : 30
+     },
+    "31" : {
+	  "name" : "Recon",
 	  "specialities" : null
-     }
-     "Science" : {
-	  "id" : 31
+     },
+    "32" : {
+	  "name" : "Science",
 	  "specialities" : ["Archaeology", "Astronomy", "Chemistry", "Cosmology", "Cybernetics", "Economics", "Genetics", "History", "Linguistics", "Philosophy", "Physics", "Planetology", "Psionicology", "Psychology", "Robotics", "Sophontology", "Xenology"]
-     }
-     "Seafarer" : {
-	  "id" : 32
+     },
+    "33" : {
+	  "name" : "Seafarer",
 	  "specialities" : ["Ocen Ships", "Personal", "Sail", "Submarine"]
-     }
-     "Stealth" : {
-	  "id" : 33
+     },
+    "34" : {
+	  "name" : "Stealth",
 	  "specialities" : null
-     }
-     "Steward" : {
-	  "id" : 34
+     },
+    "35" : {
+	  "name" : "Steward",
 	  "specialities" : null
-     }
-     "Streetwise" : {
-	  "id" : 35
+     },
+    "36" : {
+	  "name" : "Streetwise",
 	  "specialities" : null
-     }
-     "Survival" : {
-	  "id" : 36
+     },
+    "37" : {
+	  "name" : "Survival",
 	  "specialities" : null
-     }
-     "Tactics" : {
-	  "id" : 37
+     },
+    "38" : {
+	  "name" : "Tactics",
 	  "specialities" : ["Military", "Naval"]
-     }
-     "Vacc Suit" : {
-	  "id" : 38
+     },
+    "39" : {
+	  "name" : "Vacc Suit",
 	  "specialities" : null
      }
 }
