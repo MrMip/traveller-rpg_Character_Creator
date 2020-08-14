@@ -1,0 +1,43 @@
+#+TITLE:Documentation
+
+* Skills JSON
+| id | name               |
+|----+--------------------|
+|  1 | Admin              |
+|  2 | Advocate           |
+|  3 | Animals            |
+|  4 | Art                |
+|  5 | Astrogation        |
+|  6 | Athletics          |
+|  7 | Broker             |
+|  8 | Carouse            |
+|  9 | Deception          |
+| 10 | Diplomat           |
+| 11 | Drive              |
+| 12 | Electronics        |
+| 13 | Engineer           |
+| 14 | Exsplosives        |
+| 15 | Flyer              |
+| 16 | Gambler            |
+| 17 | Gunner             |
+| 18 | Gun Combat         |
+| 19 | Heavy Weapons      |
+| 20 | Investigate        |
+| 21 | Jack-of-All-Trades |
+| 22 | Language           |
+| 23 | Leadership         |
+| 24 | Mechanic           |
+| 25 | Medic              |
+| 27 | Melee              |
+| 28 | Navigation         |
+| 29 | Pilot              |
+| 30 | Profession         |
+| 31 | Recon              |
+| 32 | Science            |
+| 33 | Seafarer           |
+| 34 | Stealth            |
+| 35 | Steward            |
+| 36 | Streetwise         |
+| 37 | Survival           |
+| 38 | Tactics            |
+| 39 | Vacc Suit          |
