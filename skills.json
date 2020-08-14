@@ -1,0 +1,158 @@
+{
+     "Admin" : {
+	  "id" : 0
+	  "specialities" : null
+     }
+     "Advocate" : {
+	  "id" : 1
+	  "specialities" : null
+     }
+     "Animals" : {
+	  "id" : 2
+	  "specialities" : ["Handling", "Veterinary", "Training"]
+     }
+     "Art" : {
+	  "id" : 3
+	  "specialities" : ["Preformer", "Holography", "Instrument", "Visual Media", "Write"]
+     }
+     "Astrogation" : {
+	  "id" : 4
+	  "specialities" : null
+     }
+     "Athletics" : {
+	  "id" : 5
+	  "specialities" : ["Dexterity", "Endurance", "Strength"]
+     }
+     "Broker" : {
+	  "id" : 6
+	  "specialities" : null
+     }
+     "Carouse" : {
+	  "id" : 7
+	  "specialities" : null
+     }
+     "Deception" : {
+	  "id" : 8
+	  "specialities" : null
+     }
+     "Diplomat" : {
+	  "id" : 9
+	  "specialities" : null
+     }
+     "Drive" : {
+	  "id" : 10
+	  "specialities" : ["Hovercraft", "Mole", "Track", "Walker", "Wheel"]
+     }
+     "Electronics" : {
+	  "id" : 11
+	  "specialities" : ["Comms", "Computers", "Remote Ops", "Sensors"]
+     }
+     "Engineer" : {
+	  "id" : 12
+	  "specialities" : ["M-drive", "J-drive", "Life Support", "Power"]
+     }
+     "Explosives" : {
+	  "id" : 13
+	  "specialities" : null
+     }
+     "Flyer" : {
+	  "id" : 14
+	  "specialities" : ["Airship", "Grav", "Ornithopter", "Rotor", "Wing"]
+     }
+     "Gambler" : {
+	  "id" : 15
+	  "specialities" : null
+     }
+     "Gunner" : {
+	  "id" : 16
+	  "specialities" : ["Turret", "Ortillery", "Screen", "Capital"]
+     }
+     "Gun Combat" : {
+	  "id" : 17
+	  "specialities" : ["Archaic", "Enery", "Slug"]
+     }
+     "Heavy Weapons" : {
+	  "id" : 18
+	  "specialities" : ["Artillery", "Man Portable", "Vehicle"]
+     }
+     "Investigate" : {
+	  "id" : 19
+	  "specialities" : null
+     }
+     "Jack-of-All-Trades" : {
+	  "id" : 20
+	  "specialities" : null
+     }
+     "Language" : {
+	  "id" : 21
+	  "specialities" : ["Anglic", "Vilani", "Zdetl", "Oynprith"]
+     }
+     "Leadership" : {
+	  "id" : 22
+	  "specialities" : null
+     }
+     "Mechanic" : {
+	  "id" : 23
+	  "specialities" : null
+     }
+     "Medic" : {
+	  "id" : 24
+	  "specialities" : null
+     }
+     "Melee" : {
+	  "id" : 25
+	  "specialities" : ["Unarmed", "Blade", "Bludgeon", "Natural"]
+     }
+     "Navigation" : {
+	  "id" : 26
+	  "specialities" : null
+     }
+     "Persuade" : {
+	  "id" : 27
+	  "specialities" : null
+     }
+     "Pilot" : {
+	  "id" : 28
+	  "specialities" : ["Small Craft", "Spacecraft", "Capital Ships"]
+     }
+     "Profession" : {
+	  "id" : 29
+	  "specialities" : ["Belter", "Biologicals", "Civil Engineering", "Hydoponics", "Polymers"]
+     }
+     "Recon" : {
+	  "id" : 30
+	  "specialities" : null
+     }
+     "Science" : {
+	  "id" : 31
+	  "specialities" : ["Archaeology", "Astronomy", "Chemistry", "Cosmology", "Cybernetics", "Economics", "Genetics", "History", "Linguistics", "Philosophy", "Physics", "Planetology", "Psionicology", "Psychology", "Robotics", "Sophontology", "Xenology"]
+     }
+     "Seafarer" : {
+	  "id" : 32
+	  "specialities" : ["Ocen Ships", "Personal", "Sail", "Submarine"]
+     }
+     "Stealth" : {
+	  "id" : 33
+	  "specialities" : null
+     }
+     "Steward" : {
+	  "id" : 34
+	  "specialities" : null
+     }
+     "Streetwise" : {
+	  "id" : 35
+	  "specialities" : null
+     }
+     "Survival" : {
+	  "id" : 36
+	  "specialities" : null
+     }
+     "Tactics" : {
+	  "id" : 37
+	  "specialities" : ["Military", "Naval"]
+     }
+     "Vacc Suit" : {
+	  "id" : 38
+	  "specialities" : null
+     }
+}
